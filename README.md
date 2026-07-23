@@ -177,7 +177,7 @@ http://localhost:5174
 
 ## Dashboard
 
-![Dashboard]([empimages/empdashboard.png])
+![[(https://github.com/yogeshwariphalle/Employee-Management-System/blob/main/)]([empimages/empdashboard.png])
 
 ---
 
