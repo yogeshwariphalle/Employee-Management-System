@@ -177,7 +177,7 @@ http://localhost:5174
 
 ## Dashboard
 
-![Dashboard]([screenshots/empimages/empdashboard.png])
+![Dashboard]([/empimages/empdashboard.png])
 
 ---
 
