@@ -173,50 +173,6 @@ http://localhost:5174
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-![[(https://github.com/yogeshwariphalle/Employee-Management-System/blob/main/)]([empimages/empdashboard.png])
-
----
-
-## Employee List
-
-![Employee List](screenshots/employee-list.png)
-
----
-
-## Add Employee
-
-![Add Employee](screenshots/add-employee.png)
-
----
-
-## Edit Employee
-
-![Edit Employee](screenshots/edit-employee.png)
-
----
-
-## Search Employee
-
-![Search Employee](screenshots/search.png)
-
----
-
-## Bruno API Testing
-
-![Bruno](screenshots/bruno-api.png)
-
----
-
-## MySQL Database
-
-![Database](screenshots/database.png)
-
----
-
 ## 🧪 API Testing
 
 All REST APIs were tested using **Bruno**.
