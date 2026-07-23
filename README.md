@@ -56,6 +56,7 @@ A **Full Stack Employee Management System** built using **Spring Boot**, **React
 ### API Testing
 
 - Bruno
+- Postman
 
 ### Tools
 
